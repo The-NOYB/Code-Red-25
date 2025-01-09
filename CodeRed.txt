@@ -1,0 +1,24 @@
+Backend:
+    -Node.js
+    -Firebase
+    -MongoDB
+UI:
+    -Figma
+    -Idea for updating tasks
+    -1st logo screen (like supercell, nintendo)
+    -opening Screen (the screen which is default and opens after the logo)
+    -Tasks done screen (will take tasks done for that day)
+    -other screens for inventory, stats, friends  etc
+Grpahics:
+    (if not mentioned make normal 2d)
+    -seeds
+    -plants
+    -water droplets
+    -isometric dirt blocks
+    -isometric grass blocks (dirt with grass on top)
+Game System:
+    -rewards system of player on doing tasks
+    -daily login rewards?
+    -garden rendering
+    -making the basic garden system (seeding, plantation, watering etc)
+    -plant system
