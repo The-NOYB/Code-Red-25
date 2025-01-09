@@ -20,3 +20,7 @@ Game System:
     -garden rendering
     -making the basic garden system (seeding, plantation, watering etc)
     -plant system
+
+Grid dimensions:
+X -> 142
+Y -> 80
